@@ -108,9 +108,9 @@ Tecnólogo en desarrollo de software especializado en backend (Java, Spring Boot
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Zamuken1&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1Zamuken1&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Zamuken1&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1Zamuken1&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
